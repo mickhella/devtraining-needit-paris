@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_58872_needit_miatabella</description>
+        <name>x_58872_needit_miatabella</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 14:21:27</sys_created_on>
+        <sys_id>0913594a2ff12010a52b55f62799b6f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_miatabella</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_security_acl_0913594a2ff12010a52b55f62799b6f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 14:21:27</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>7cc8125bdbb8d7886578f22ebf961901</instance_id>
+        <instance_name>dev53300</instance_name>
+        <name>sys_security_acl_0913594a2ff12010a52b55f62799b6f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_58872_needit_miatabella</description>
+        <name>x_58872_needit_miatabella</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 14:21:27</sys_created_on>
+        <sys_id>0913594a2ff12010a52b55f62799b6f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_miatabella</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_security_acl_0913594a2ff12010a52b55f62799b6f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 14:21:27</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>960050904</payload_hash>
+        <record_name>x_58872_needit_miatabella</record_name>
+        <reverted_from/>
+        <source>39c317262fb12010a52b55f62799b647</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 13:01:05</sys_created_on>
+        <sys_id>dfd39b262fb12010a52b55f62799b622</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1772a2f1a070000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 13:01:05</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>5fd39b260fb120105e35ef4c31710022</update_guid>
+        <update_guid_history>5fd39b260fb120105e35ef4c31710022:0,69c257a213b12010aa1a6bb73419695a:-1024988730,3782db623db120100e2721d49749c436:0,3c0316d2e9f12010df14eb588d63f398:953995338,0913594a4ef1201087442317886ca8f6:-1486901574</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 13:02:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>beca0953bc8a4e008f60faa6ae31e400</sys_id>
+        <sys_metadata>0913594a2ff12010a52b55f62799b6f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_miatabella</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent display_value="">4dd3d7262fb12010a52b55f62799b616</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_security_acl_0913594a2ff12010a52b55f62799b6f4</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_0913594a2ff12010a52b55f62799b6f4">dfd39b262fb12010a52b55f62799b622</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 13:02:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

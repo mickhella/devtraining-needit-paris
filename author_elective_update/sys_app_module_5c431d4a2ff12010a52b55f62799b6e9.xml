@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Questo è il mio modulo per Create New.</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>MioModulo</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_miatabella</name>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 14:25:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5c431d4a2ff12010a52b55f62799b6e9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Crea Nuovo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_5c431d4a2ff12010a52b55f62799b6e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 14:29:57</sys_updated_on>
+        <timeline_page/>
+        <title>Crea Nuovo</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>7cc8125bdbb8d7886578f22ebf961901</instance_id>
+        <instance_name>dev53300</instance_name>
+        <name>sys_app_module_5c431d4a2ff12010a52b55f62799b6e9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Questo è il mio modulo per Create New.</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>MioModulo</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_58872_needit_miatabella</name>
+        <order>400</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 14:25:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5c431d4a2ff12010a52b55f62799b6e9</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Crea Nuovo</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_5c431d4a2ff12010a52b55f62799b6e9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 14:29:57</sys_updated_on>
+        <timeline_page/>
+        <title>Crea Nuovo</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>]]></payload>
+        <payload_hash>779921469</payload_hash>
+        <record_name>Crea Nuovo</record_name>
+        <reverted_from/>
+        <source>39c317262fb12010a52b55f62799b647</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 13:01:04</sys_created_on>
+        <sys_id>32d35b262fb12010a52b55f62799b6ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1772a2f12d40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 13:01:04</sys_updated_on>
+        <type>Module</type>
+        <update_guid>bed35b2612b12010a6ae1a0952fe04ab</update_guid>
+        <update_guid_history>bed35b2612b12010a6ae1a0952fe04ab:0,46b253a254b12010eaad452bab717036:1152468403,67829b6231b12010a7953c29947308c2:0,cee292d251f12010e107135ed1cdfab9:1188249691,99055d8ac9f120107321477e3b516b9a:1545989543,0c84958a46f12010bcb54f2be4d5b501:-1054901496,6be3518ad3f12010a2a7bbe89bf6632e:-1961716278</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Crea Nuovo">e24417662fb12010a52b55f62799b64f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 13:02:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2c9318cb7a434ab0ae535e30dbdc9190</sys_id>
+        <sys_metadata>5c431d4a2ff12010a52b55f62799b6e9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Crea Nuovo</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_5c431d4a2ff12010a52b55f62799b6e9</sys_update_name>
+        <sys_update_version display_value="sys_app_module_5c431d4a2ff12010a52b55f62799b6e9">32d35b262fb12010a52b55f62799b6ac</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 13:02:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

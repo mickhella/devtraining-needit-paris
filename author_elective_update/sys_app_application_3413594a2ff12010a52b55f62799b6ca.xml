@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>MiaTabella</name>
+        <order>100</order>
+        <roles>x_58872_needit.miatabella_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 14:21:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3413594a2ff12010a52b55f62799b6ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MiaTabella</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_3413594a2ff12010a52b55f62799b6ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 14:21:27</sys_updated_on>
+        <title>MiaTabella</title>
+        <view_name/>
+    </sys_app_application>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>7cc8125bdbb8d7886578f22ebf961901</instance_id>
+        <instance_name>dev53300</instance_name>
+        <name>sys_app_application_3413594a2ff12010a52b55f62799b6ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>MiaTabella</name>
+        <order>100</order>
+        <roles>x_58872_needit.miatabella_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-20 14:21:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3413594a2ff12010a52b55f62799b6ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MiaTabella</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_3413594a2ff12010a52b55f62799b6ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-20 14:21:27</sys_updated_on>
+        <title>MiaTabella</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>]]></payload>
+        <payload_hash>-612924580</payload_hash>
+        <record_name>MiaTabella</record_name>
+        <reverted_from/>
+        <source>39c317262fb12010a52b55f62799b647</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 13:01:03</sys_created_on>
+        <sys_id>f6d35b262fb12010a52b55f62799b6a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1772a2f122d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 13:01:03</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>76d35b26fdb1201068356eccd82d38a4</update_guid>
+        <update_guid_history>76d35b26fdb1201068356eccd82d38a4:0,b1b213a25bb12010b3a79de5b9ab71bc:-664571112,9b829b62b8b12010d68f0bd311203fbb:0,58335ad27cf12010d082f82709d76853:-1066702458,7013594a3ef120102b3a117f9f63a1cd:-2141242698</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="MiaTabella">d5841b662fb12010a52b55f62799b6e0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 13:03:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>1bdd7fbc6b334ceca5cfba0c117a4331</sys_id>
+        <sys_metadata>3413594a2ff12010a52b55f62799b6ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MiaTabella</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_3413594a2ff12010a52b55f62799b6ca</sys_update_name>
+        <sys_update_version display_value="sys_app_application_3413594a2ff12010a52b55f62799b6ca">f6d35b262fb12010a52b55f62799b6a4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 13:03:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
