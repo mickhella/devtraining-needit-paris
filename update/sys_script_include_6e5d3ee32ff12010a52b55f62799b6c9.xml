@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_58872_needit.englishTime</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description>Questo script mostra un messaggio con la data in formato inglese.</description>
+        <name>englishTime</name>
+        <script><![CDATA[function englishTime(enTime){
+	//Trasformo l'ora passatami enTime da orario in 24h a orario in 12h
+	
+	gs.addInfoMessage("The time in your NeedIt request is " + enTime.getLocalTime().getByFormat('hh:mm:ss a') + "! Have a good day.");
+	
+	
+	return true;
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-25 14:28:50</sys_created_on>
+        <sys_id>6e5d3ee32ff12010a52b55f62799b6c9</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>englishTime</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_script_include_6e5d3ee32ff12010a52b55f62799b6c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-25 15:30:55</sys_updated_on>
+    </sys_script_include>
+</record_update>
