@@ -29,7 +29,7 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-	var adesso = new GlideDateTime();
+	/*var adesso = new GlideDateTime();
 	var wn = new GlideDateTime(current.u_when_needed);
 	//adesso.getDate();
 	//wn.getDate();
@@ -48,7 +48,18 @@
 	if(WhenNeeded.equals(domani)||WhenNeeded.equals(oggi)){
       gs.addErrorMessage("ERRORE! Servono almeno due giorni da oggi, compreso.");
       current.setAbortAction(true);
-  }
+  }*/
+	
+	//Codice della nuova esercitazione
+	//Instanzio la classe NeedItUtils, chiamo il metodo/funzione
+	//isDatePast, passandogli current.u_when_needed come variabile
+	var niutils = new NeedItUtils();
+	var isPast = niutils.isDatePast(current.u_when_needed);
+	//Se isDatePast ritorna true, la data è nel passato
+	if(isPast == true){
+		gs.addErrorMessage("ATTENZIONE! DATA NEL PASSATO!");
+		current.setAbortAction(true);
+	}
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -57,7 +68,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a6ba9bea2fb12010a52b55f62799b6ae</sys_id>
-        <sys_mod_count>20</sys_mod_count>
+        <sys_mod_count>21</sys_mod_count>
         <sys_name>NeedIt When needed</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -65,7 +76,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_script_a6ba9bea2fb12010a52b55f62799b6ae</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-25 14:40:26</sys_updated_on>
+        <sys_updated_on>2021-01-26 14:35:20</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
