@@ -11,7 +11,7 @@
         <copied_from_name/>
         <description>Gli Incident aperti da più di una settimana vengono chiusi alle 00:01 della domenica successiva.</description>
         <internal_name>needit_scaduto</internal_name>
-        <label_cache>[{"name":"5501992d-3a62-492c-85dc-9dbd1e37d950.message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"eae4ca7a-5ba6-465c-b7bd-6ba1cf184947"}},{"name":"5501992d-3a62-492c-85dc-9dbd1e37d950.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"828e2127-df28-4eda-af48-ee4e876cca1e"}},{"name":"5501992d-3a62-492c-85dc-9dbd1e37d950.count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"edb3c082-a356-4943-a263-55232fc02390"}},{"name":"e8b99e57-c10d-468f-830a-c9a39814e7de.message","label":"2➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"eae4ca7a-5ba6-465c-b7bd-6ba1cf184947"}},{"name":"e8b99e57-c10d-468f-830a-c9a39814e7de.status","label":"2➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"choice","uiUniqueId":"828e2127-df28-4eda-af48-ee4e876cca1e"}},{"name":"e8b99e57-c10d-468f-830a-c9a39814e7de.count","label":"2➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"integer","uiUniqueId":"edb3c082-a356-4943-a263-55232fc02390"}},{"name":"Weekly_1.run_start_time","label":"Trigger➛Run Start Time","type":"glide_date_time","base_type":"glide_date_time","attributes":{"test_input_hidden":"true"}},{"name":"cd0dae0b-663b-4bfa-a2db-f68d2df97c45.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"cd0dae0b-663b-4bfa-a2db-f68d2df97c45.Table","label":"1➛NeedIt Table","reference":"x_58872_needit_needit","reference_display":"NeedIt","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"cd0dae0b-663b-4bfa-a2db-f68d2df97c45.Records","label":"1➛NeedIt Records","reference":"x_58872_needit_needit","reference_display":"NeedIt","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.error_message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"choice","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.Record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5caf7aad-f51d-41e1-900f-2427b7e2f847.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5caf7aad-f51d-41e1-900f-2427b7e2f847.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"c54aba29-0293-40db-a83b-1b4758e502de.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"c54aba29-0293-40db-a83b-1b4758e502de.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"c54aba29-0293-40db-a83b-1b4758e502de.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"c54aba29-0293-40db-a83b-1b4758e502de.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5caf7aad-f51d-41e1-900f-2427b7e2f847.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5caf7aad-f51d-41e1-900f-2427b7e2f847.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.Record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"choice","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.error_message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"cd0dae0b-663b-4bfa-a2db-f68d2df97c45.Records","label":"1➛NeedIt Records","reference":"x_58872_needit_needit","reference_display":"NeedIt","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"cd0dae0b-663b-4bfa-a2db-f68d2df97c45.Table","label":"1➛NeedIt Table","reference":"x_58872_needit_needit","reference_display":"NeedIt","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"cd0dae0b-663b-4bfa-a2db-f68d2df97c45.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Weekly_1.run_start_time","label":"Trigger➛Run Start Time","type":"glide_date_time","base_type":"glide_date_time","attributes":{"test_input_hidden":"true"}},{"name":"e8b99e57-c10d-468f-830a-c9a39814e7de.count","label":"2➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"integer","uiUniqueId":"edb3c082-a356-4943-a263-55232fc02390"}},{"name":"e8b99e57-c10d-468f-830a-c9a39814e7de.status","label":"2➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"choice","uiUniqueId":"828e2127-df28-4eda-af48-ee4e876cca1e"}},{"name":"e8b99e57-c10d-468f-830a-c9a39814e7de.message","label":"2➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"eae4ca7a-5ba6-465c-b7bd-6ba1cf184947"}},{"name":"5501992d-3a62-492c-85dc-9dbd1e37d950.count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"edb3c082-a356-4943-a263-55232fc02390"}},{"name":"5501992d-3a62-492c-85dc-9dbd1e37d950.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"828e2127-df28-4eda-af48-ee4e876cca1e"}},{"name":"5501992d-3a62-492c-85dc-9dbd1e37d950.message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"eae4ca7a-5ba6-465c-b7bd-6ba1cf184947"}}]</label_cache>
         <latest_snapshot>9c94eeec2f022010a52b55f62799b602</latest_snapshot>
         <master_snapshot>9c94eeec2f022010a52b55f62799b602</master_snapshot>
         <name>NeedIt Scaduto</name>
@@ -30,7 +30,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>f1cf12682f022010a52b55f62799b619</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_name>NeedIt Scaduto</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
@@ -38,7 +38,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_hub_flow_f1cf12682f022010a52b55f62799b619</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:42:20</sys_updated_on>
+        <sys_updated_on>2021-01-28 14:52:17</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow>
     <sys_translated_text action="delete_multiple" query="documentkey=f1cf12682f022010a52b55f62799b619"/>
@@ -113,10 +113,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:42:10</sys_created_on>
         <sys_id>d684aeec2f022010a52b55f62799b64e</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:42:20</sys_updated_on>
+        <sys_updated_on>2021-01-28 14:52:17</sys_updated_on>
         <ui_id>5501992d-3a62-492c-85dc-9dbd1e37d950</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d684aeec2f022010a52b55f62799b64e"/>
@@ -128,10 +128,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:42:10</sys_created_on>
         <sys_id>1e84aeec2f022010a52b55f62799b650</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:42:10</sys_updated_on>
-        <value>state!=3^u_when_needed&lt;javascript:gs.beginningOfLast7Days()</value>
+        <sys_updated_on>2021-01-28 14:52:01</sys_updated_on>
+        <value>state!=3^opened_at&lt;=javascript:gs.beginningOfLast7Days()</value>
         <variable display_value="">d9af2a72c75100105312134c95c2607a</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -186,10 +186,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:42:10</sys_created_on>
         <sys_id>9a846eec2f022010a52b55f62799b604</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>7</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:42:20</sys_updated_on>
+        <sys_updated_on>2021-01-28 14:52:17</sys_updated_on>
         <trigger_definition display_value="Weekly">cf352104c32222002841b63b12d3ae1f</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -251,10 +251,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:42:10</sys_created_on>
         <sys_id>d684aeec2f022010a52b55f62799b64e</sys_id>
-        <sys_mod_count>6</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:42:20</sys_updated_on>
+        <sys_updated_on>2021-01-28 14:52:17</sys_updated_on>
         <ui_id>5501992d-3a62-492c-85dc-9dbd1e37d950</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=d684aeec2f022010a52b55f62799b64e"/>
@@ -266,10 +266,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:42:10</sys_created_on>
         <sys_id>1e84aeec2f022010a52b55f62799b650</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:42:10</sys_updated_on>
-        <value>state!=3^u_when_needed&lt;javascript:gs.beginningOfLast7Days()</value>
+        <sys_updated_on>2021-01-28 14:52:01</sys_updated_on>
+        <value>state!=3^opened_at&lt;=javascript:gs.beginningOfLast7Days()</value>
         <variable display_value="">d9af2a72c75100105312134c95c2607a</variable>
     </sys_variable_value>
     <sys_variable_value action="INSERT_OR_UPDATE">
@@ -343,7 +343,7 @@
         <copied_from_name/>
         <description>Gli Incident aperti da più di una settimana vengono chiusi alle 00:01 della domenica successiva.</description>
         <internal_name>needit_scaduto</internal_name>
-        <label_cache>[{"name":"5501992d-3a62-492c-85dc-9dbd1e37d950.message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"eae4ca7a-5ba6-465c-b7bd-6ba1cf184947"}},{"name":"5501992d-3a62-492c-85dc-9dbd1e37d950.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"828e2127-df28-4eda-af48-ee4e876cca1e"}},{"name":"5501992d-3a62-492c-85dc-9dbd1e37d950.count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"edb3c082-a356-4943-a263-55232fc02390"}},{"name":"e8b99e57-c10d-468f-830a-c9a39814e7de.message","label":"2➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"eae4ca7a-5ba6-465c-b7bd-6ba1cf184947"}},{"name":"e8b99e57-c10d-468f-830a-c9a39814e7de.status","label":"2➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"choice","uiUniqueId":"828e2127-df28-4eda-af48-ee4e876cca1e"}},{"name":"e8b99e57-c10d-468f-830a-c9a39814e7de.count","label":"2➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"integer","uiUniqueId":"edb3c082-a356-4943-a263-55232fc02390"}},{"name":"Weekly_1.run_start_time","label":"Trigger➛Run Start Time","type":"glide_date_time","base_type":"glide_date_time","attributes":{"test_input_hidden":"true"}},{"name":"cd0dae0b-663b-4bfa-a2db-f68d2df97c45.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"cd0dae0b-663b-4bfa-a2db-f68d2df97c45.Table","label":"1➛NeedIt Table","reference":"x_58872_needit_needit","reference_display":"NeedIt","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"cd0dae0b-663b-4bfa-a2db-f68d2df97c45.Records","label":"1➛NeedIt Records","reference":"x_58872_needit_needit","reference_display":"NeedIt","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.error_message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"choice","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.Record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5caf7aad-f51d-41e1-900f-2427b7e2f847.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5caf7aad-f51d-41e1-900f-2427b7e2f847.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"c54aba29-0293-40db-a83b-1b4758e502de.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"c54aba29-0293-40db-a83b-1b4758e502de.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}}]</label_cache>
+        <label_cache>[{"name":"c54aba29-0293-40db-a83b-1b4758e502de.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"c54aba29-0293-40db-a83b-1b4758e502de.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5caf7aad-f51d-41e1-900f-2427b7e2f847.record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"5caf7aad-f51d-41e1-900f-2427b7e2f847.table_name","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.Record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"choice","uiUniqueId":"5e478657-3a84-4a60-a92b-d3e80005ad34"}},{"name":"8122f0be-25ff-45bb-b46f-2fa2e9ae8564.error_message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"87687532-9e3d-4497-a88e-90f45bfb9adb"}},{"name":"cd0dae0b-663b-4bfa-a2db-f68d2df97c45.Records","label":"1➛NeedIt Records","reference":"x_58872_needit_needit","reference_display":"NeedIt","type":"records","base_type":"records","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"cd0dae0b-663b-4bfa-a2db-f68d2df97c45.Table","label":"1➛NeedIt Table","reference":"x_58872_needit_needit","reference_display":"NeedIt","type":"table_name","base_type":"table_name","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"cd0dae0b-663b-4bfa-a2db-f68d2df97c45.Count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper"}},{"name":"Weekly_1.run_start_time","label":"Trigger➛Run Start Time","type":"glide_date_time","base_type":"glide_date_time","attributes":{"test_input_hidden":"true"}},{"name":"e8b99e57-c10d-468f-830a-c9a39814e7de.count","label":"2➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"integer","uiUniqueId":"edb3c082-a356-4943-a263-55232fc02390"}},{"name":"e8b99e57-c10d-468f-830a-c9a39814e7de.status","label":"2➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiType":"choice","uiUniqueId":"828e2127-df28-4eda-af48-ee4e876cca1e"}},{"name":"e8b99e57-c10d-468f-830a-c9a39814e7de.message","label":"2➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiType":"string","uiUniqueId":"eae4ca7a-5ba6-465c-b7bd-6ba1cf184947"}},{"name":"5501992d-3a62-492c-85dc-9dbd1e37d950.count","label":"1➛Count","reference_display":"Count","type":"integer","base_type":"integer","attributes":{"uiType":"integer","uiTypeLabel":"Integer","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"edb3c082-a356-4943-a263-55232fc02390"}},{"name":"5501992d-3a62-492c-85dc-9dbd1e37d950.status","label":"1➛Status","reference_display":"Status","type":"choice","base_type":"choice","attributes":{"uiType":"choice","uiTypeLabel":"Choice","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","uiUniqueId":"828e2127-df28-4eda-af48-ee4e876cca1e"}},{"name":"5501992d-3a62-492c-85dc-9dbd1e37d950.message","label":"1➛Error Message","reference_display":"Error Message","type":"string","base_type":"string","attributes":{"uiType":"string","uiTypeLabel":"String","element_mapping_provider":"com.glide.flow_design.action.data.FlowDesignVariableMapper","pwd2droppable":"true","uiUniqueId":"eae4ca7a-5ba6-465c-b7bd-6ba1cf184947"}}]</label_cache>
         <master>true</master>
         <name>NeedIt Scaduto</name>
         <natlang/>
@@ -360,7 +360,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9c94eeec2f022010a52b55f62799b602</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name/>
         <sys_overrides/>
         <sys_package/>
@@ -368,7 +368,7 @@
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:42:18</sys_updated_on>
+        <sys_updated_on>2021-01-28 14:52:15</sys_updated_on>
         <type>flow</type>
     </sys_hub_flow_snapshot>
     <sys_translated_text action="delete_multiple" query="documentkey=9c94eeec2f022010a52b55f62799b602"/>
@@ -388,10 +388,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:42:18</sys_created_on>
         <sys_id>9494eeec2f022010a52b55f62799b60b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:42:19</sys_updated_on>
+        <sys_updated_on>2021-01-28 14:52:15</sys_updated_on>
         <ui_id>5501992d-3a62-492c-85dc-9dbd1e37d950</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9494eeec2f022010a52b55f62799b60b"/>
@@ -445,10 +445,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:42:19</sys_created_on>
         <sys_id>d894eeec2f022010a52b55f62799b60d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:42:19</sys_updated_on>
-        <value>state!=3^u_when_needed&lt;javascript:gs.beginningOfLast7Days()</value>
+        <sys_updated_on>2021-01-28 14:52:15</sys_updated_on>
+        <value>state!=3^opened_at&lt;=javascript:gs.beginningOfLast7Days()</value>
         <variable display_value="">d9af2a72c75100105312134c95c2607a</variable>
     </sys_variable_value>
     <sys_hub_trigger_instance action="delete_multiple" query="flow=9c94eeec2f022010a52b55f62799b602^sys_idNOT IN5494eeec2f022010a52b55f62799b60e"/>
@@ -461,10 +461,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:42:19</sys_created_on>
         <sys_id>5494eeec2f022010a52b55f62799b60e</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_scope/>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:42:19</sys_updated_on>
+        <sys_updated_on>2021-01-28 14:52:17</sys_updated_on>
         <trigger_definition display_value="Weekly">cf352104c32222002841b63b12d3ae1f</trigger_definition>
         <trigger_inputs/>
         <trigger_outputs/>
@@ -526,10 +526,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:42:18</sys_created_on>
         <sys_id>9494eeec2f022010a52b55f62799b60b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:42:19</sys_updated_on>
+        <sys_updated_on>2021-01-28 14:52:15</sys_updated_on>
         <ui_id>5501992d-3a62-492c-85dc-9dbd1e37d950</ui_id>
     </sys_hub_action_instance>
     <sys_variable_value action="delete_multiple" query="document_key=9494eeec2f022010a52b55f62799b60b"/>
@@ -583,10 +583,10 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-01-28 14:42:19</sys_created_on>
         <sys_id>d894eeec2f022010a52b55f62799b60d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-01-28 14:42:19</sys_updated_on>
-        <value>state!=3^u_when_needed&lt;javascript:gs.beginningOfLast7Days()</value>
+        <sys_updated_on>2021-01-28 14:52:15</sys_updated_on>
+        <value>state!=3^opened_at&lt;=javascript:gs.beginningOfLast7Days()</value>
         <variable display_value="">d9af2a72c75100105312134c95c2607a</variable>
     </sys_variable_value>
 </record_update>
